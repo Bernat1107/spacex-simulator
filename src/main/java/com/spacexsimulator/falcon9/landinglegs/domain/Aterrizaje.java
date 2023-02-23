@@ -1,13 +1,16 @@
 package com.spacexsimulator.falcon9.landinglegs.domain;
 
+
 public class Aterrizaje {
+    public void Aterrizaje() {
 
 
-    private Boolean Leg0;
-    private Boolean Leg90;
-    private Boolean Leg180;
-    private Boolean Leg270;
+        Boolean Leg0 = true;
+        Boolean Leg90= true;
+        Boolean Leg180= true;
+        Boolean Leg270= true;
 
 
 
+    }
 }
