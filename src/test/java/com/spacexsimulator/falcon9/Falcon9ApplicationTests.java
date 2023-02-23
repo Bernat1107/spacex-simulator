@@ -7,7 +7,7 @@ import javax.ws.rs.POST;
 @SpringBootTest
 class Falcon9ApplicationTests {
 
-     POST("https//{api-url}/api/landinglegs/verticallanding")
+    // POST("https//{api-url}/api/landinglegs/verticallanding")
 
 
 }
