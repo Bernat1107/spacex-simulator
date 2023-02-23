@@ -15,6 +15,36 @@ public class LandingLegs {
   private boolean VerticalLanding = true;
 
 
+  public void Aterrizaje() {
+
+
+    Boolean Leg0 = true;
+    Boolean Leg90= true;
+    Boolean Leg180= true;
+    Boolean Leg270= true;
+
+
+
+  }
+
+
+
+  public void Despegue() {
+
+
+    Boolean Leg0 = false;
+    Boolean Leg90= false;
+    Boolean Leg180= false;
+    Boolean Leg270= false;
+
+
+
+  }
+
+
+
 }
+
+
 
 
