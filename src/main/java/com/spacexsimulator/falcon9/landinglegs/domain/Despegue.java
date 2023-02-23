@@ -2,8 +2,15 @@ package com.spacexsimulator.falcon9.landinglegs.domain;
 
 public class Despegue {
 
-    private Boolean Leg0;
-    private Boolean Leg90;
-    private Boolean Leg180;
-    private Boolean Leg270;
+    public void Despegue() {
+
+
+        Boolean Leg0 = false;
+        Boolean Leg90= false;
+        Boolean Leg180= false;
+        Boolean Leg270= false;
+
+
+
+    }
 }
